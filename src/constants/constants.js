@@ -1,9 +1,9 @@
 export const projects = [
   {
     title: 'Speech Companion',
-    description: "Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack MERN Application - from start to finish. The App is called Memories and it is a simple social media app that allows users to post interesting events that happened in their lives.",
-      image: '/images/speech-companion.png',
-      tags: ['Mongo', 'Express', 'React', 'Node'],
+    description: "Speech Companion can convert your given speech into text for convenience. It can also read the given text for you making your work a lot easier.",
+    image: '/images/speech-companion.png',
+    tags: ['React', 'Docker', 'Kubernetes'],
     source: 'https://github.com/balayokesh/speech-companion',
     visit: 'https://balayokesh.github.io/speech-companion/',
     id: 0,
