@@ -1,7 +1,8 @@
 export const projects = [
   {
     title: 'Speech Companion',
-    description: "Speech Companion can convert your given speech into text for convenience. It can also read the given text for you making your work a lot easier.",
+    description: "This project was created for Civo Hackathon 2021, where our team secured 3rd Prize. Speech Companion can convert your given speech into text for convenience. It can also read the given text for you making your work a lot easier.",
+    type: 'Hackathon',
     image: '/images/speech-companion.png',
     tags: ['React', 'Docker', 'Kubernetes'],
     source: 'https://github.com/balayokesh/speech-companion',
@@ -11,6 +12,7 @@ export const projects = [
   {
     title: 'E-Commerce',
     description:"While building it you're going to learn many advanced React & JavaScript topics, as well as how to use Stripe for card transactions. On top of that, at the end of the video, you will have this unique and complex webshop app that you will be able to add to your portfolio. And trust me, e-commerce applications are impressive.",
+    type: 'College project',
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
     source: 'https://google.com',
@@ -20,8 +22,9 @@ export const projects = [
   {
     title: 'WebRTC App',
     description: "This is a code repository for the corresponding YouTube video. In this tutorial, we're going to build and deploy a React Video Chat Application using WebRTC.",
-      image: '/images/3.jpg',
-      tags: ['React', 'WebRTC'],
+    type: 'Personal project',
+    image: '/images/3.jpg',
+    tags: ['React', 'WebRTC'],
     source: 'https://google.com',
     visit: 'https://google.com',
     id: 2,
@@ -29,6 +32,7 @@ export const projects = [
   {
     title: 'Unichat',
     description: "This is a code repository for the corresponding video tutorial. In this video, we will create a full Realtime Chat Application",
+    type: 'Hackathon',
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
     source: 'https://google.com',
