@@ -5,9 +5,9 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { title: '3rd', text: 'Civo Hackathon 2021 (12-14th Nov)'},
-  { title: 'Finalists', text: 'Manthan 2021 Hackathon', },
-  { title: 'blah', text: 'Some Achievement', },
-  { title: 'lol', text: 'Some Other Achievement', }
+  { title: 'Finalists', text: 'Manthan 2021 National Hackathon', },
+  // { title: 'blah', text: 'Some Achievement', },
+  // { title: 'lol', text: 'Some Other Achievement', }
 ];
 
 const Acomplishments = () => (
